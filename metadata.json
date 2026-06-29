@@ -1,0 +1,6 @@
+{
+  "name": "Spinwheel Size Randomizer",
+  "description": "A modern, eye-friendly dark-themed spinwheel to randomly assign character sizes to multiple players at once.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
